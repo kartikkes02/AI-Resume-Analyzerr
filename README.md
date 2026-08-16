@@ -221,7 +221,3 @@ In the project directory, you can run:
 | `npm run typecheck` | Generates React Router types and runs TypeScript type verification |
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
