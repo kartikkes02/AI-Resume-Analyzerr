@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="public/readme/hero.webp" alt="Resumind Banner" width="100%" />
-
   <br /><br />
 
   <div>
